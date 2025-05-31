@@ -30,23 +30,23 @@ Tags:
 ReleaseNotes: |-
   Zen Twilight Release
   File Checksums (SHA-256)
-  b83536e6e418cd7c4cd3143b412ecb0330535d70ed31aea53387d5af0d584699  zen.source.tar.zst
-  aa3fc6a6435ab47077121b5e857e05c46317e00311e5b65c090509b7a02f4521  zen.linux-x86_64.tar.xz
-  61dba0d43e422070cec1d8a5de6c5c09a99fb715648b82e42b29d4397ca9701e  zen.linux-aarch64.tar.xz
-  453cefed57084a0224b35106318bd5b080472d78e3e3cabc3784cc71d2e2b459  zen-x86_64.AppImage
-  a2e4ba191b507bec8c3fd5f8bc251a731445edc4f41750233dcae959f59faea7  zen-x86_64.AppImage.zsync
-  6eb1b5a830b20f3e7893c26cb9648b77134489ea8d97a00a45b899a6db663d43  zen-aarch64.AppImage
-  d023f822f20383f09d8d154bd5a5c194b1ce9986904cf47597ddf195d9d48616  zen-aarch64.AppImage.zsync
-  c1df0da7132f78c14aa53576232fa1338e2ccd493a966e677b543c80b17028d3  zen.win-x86_64.zip
-  8b1fbba8f584dfbde614281e0c0bf04d5d44421a2a49d4f454a0a532b686095b  zen.win-arm64.zip
-  073775b7c91035f9a710b51e337f635637a710ec292d0df8c4ed46d14dd6e66a  linux.mar
-  7f1e0e4724d2d0f8f4424ff9029e8722d57035385d3fd43c042c96f4922ddad9  linux-aarch64.mar
-  b3be83149a6898900c6eba3f4cb63e938513b6454d7cafcaa0edb878eddb8323  windows.mar
-  fd640db2b9d7fca706f6e2c7f2769c4dca03af168f167f075d91bdbdc7f536ed  windows-arm64.mar
-  248394a62ca13a293bd0ff25d4e68c54cbe2139f6e8dad95f628a7c1e74b87ed  macos.mar
-  394f5675f615aec867a94711c7533a479ffaf02b3a313f94c05a1357f0856f7f  zen.installer.exe
-  2cfde5313774861c9bb4e3f06c15f11c886e07773d8f13b21f1076a55599e588  zen.installer-arm64.exe
-  aab8904a43b0a050d5e7a240ab00dd3a46f7b6a0686432a7d94947dea258d3a7  zen.macos-universal.dmg
+  6ce2b8d923ad79c50c43980b8a59b9b5c3dda7d81e69b66a99486e25ef540dbd  zen.source.tar.zst
+  93bbeb84cc9175d15d25cf9187a3e8bec54d1dfdecd58fd4ee91a4891df64d75  zen.linux-x86_64.tar.xz
+  485d661a23ea3878951d6df9e559f592593cb475c6355f40d2b1b2b186219bd4  zen.linux-aarch64.tar.xz
+  b9fca70404180d5b9914fdc8bf5cb6d0fb36c63cafd433fe7b050ee2ce67df46  zen-x86_64.AppImage
+  2500b7be1cb2bfeb3538a1b9ebcd489d73e27468352bdead4f60479cea41961d  zen-x86_64.AppImage.zsync
+  693190b63a2aff052189ca1fb7acee81e67984b00151a60d5ebd57c370280d5b  zen-aarch64.AppImage
+  d09e84e1e38ab8054c72d3f57dec776aa401c8bacbf0811495db4120c4278922  zen-aarch64.AppImage.zsync
+  3559a8a384ddb9f0dfe46866c5629472e45910e71efa6ccbafe7532e0eba127a  zen.win-x86_64.zip
+  9c961712c1c06bb9b7c851e93e3a68cb5d3099722c1477a62f9d4aa3e6162d83  zen.win-arm64.zip
+  a2727e26ea3ae726fc53c3b8d695039c31f994b20ce0763265d0c52085c63ecd  linux.mar
+  183a43c1820dcd9ce00ecfc56b4c5ba501ab93ef945483dff0916232bfc61413  linux-aarch64.mar
+  07b24b39c622e5bc85be70e221c0b66e88f23e3d587b85392479b4a00359344c  windows.mar
+  38ac43a167560733289da1de16003b4ebc33aae5aebdb6122fc4382e134d59d7  windows-arm64.mar
+  63ce0ceba64d6f01a94909870ed8038c6bf114a204c2bf43cd34a8a555569a2a  macos.mar
+  8d58e2f02c95fbfcf941982f25477a9f7ac3c4c1b7b73a8bd9fd91715b7a1ce3  zen.installer.exe
+  1b299392b3470470730fcf690d25a74aeb08f26a453ade6252199cce175a96a8  zen.installer-arm64.exe
+  256165afae568397e8b5d644cb24e9e8681e7fbdf062c24a8d3911f4e03717be  zen.macos-universal.dmg
 ReleaseNotesUrl: https://github.com/zen-browser/desktop/releases/tag/twilight
 Documentations:
 - DocumentLabel: About
